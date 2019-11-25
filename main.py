@@ -154,7 +154,7 @@ def show_menu():
 
 
 def getJogada():
-    while True:git 
+    while True:
         jogada = input("Qual a jogada voce quer fazer ? (pedra, papel ou tesoura) \n")
 
         if jogada in ["pedra", "papel", "tesoura"]:
